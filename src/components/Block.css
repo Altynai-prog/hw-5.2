@@ -1,0 +1,19 @@
+.block {
+    width: 150px;
+    height: 150px;
+    box-shadow: 1px 1px 4px 5px;
+  }
+  .green {
+    background-color: green;
+  }
+  .yellow {
+    background-color: yellow;
+  }
+  
+  .lime {
+    background-color: lime;
+  }
+  
+  .red {
+    background-color: red;
+  }
